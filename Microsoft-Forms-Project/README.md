@@ -8,6 +8,13 @@ The system provides a structured way for employees to submit safety observations
 
 ## 🎥 Project Demonstration
 
+
+### 📝 Live Microsoft Form
+
+👉 [Open UC & Near Miss Reporting Form](https://forms.cloud.microsoft/r/xzCcxtxbNH?origin=lprLink)
+
+> **Access:** The live form is restricted to authorized TBIF Foods Pvt. Ltd. employees.
+
 The screen recording demonstrates the form structure and reporting workflow, including the different sections and safety-related fields.
 
 ▶️ **[View Screen Recording](./Screen%20Recording/UC-Near-Miss-Form-Demo.mp4)**
