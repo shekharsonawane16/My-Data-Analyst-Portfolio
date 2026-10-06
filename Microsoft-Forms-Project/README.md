@@ -10,7 +10,7 @@ The system provides a structured way for employees to submit safety observations
 
 The screen recording demonstrates the form structure and reporting workflow, including the different sections and safety-related fields.
 
-▶️ **[View Screen Recording](./Screen-Recording/UC-Near-Miss-Form-Demo.mp4)**
+▶️ **[View Screen Recording](./Screen Recording/UC-Near-Miss-Form-Demo.mp4)**
 
 > **Note:** The live Microsoft Form is restricted to authorized company employees. The recording is provided for portfolio demonstration purposes.
 
