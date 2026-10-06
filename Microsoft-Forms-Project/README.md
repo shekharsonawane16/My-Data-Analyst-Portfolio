@@ -6,11 +6,13 @@ The system provides a structured way for employees to submit safety observations
 
 ---
 
-## 🔗 Live Microsoft Form
+## 🎥 Project Demonstration
 
-👉 [Open UC & Near Miss Reporting Form](https://forms.cloud.microsoft/r/xzCcxtxbNH?origin=lprLink)
+The screen recording demonstrates the form structure and reporting workflow, including the different sections and safety-related fields.
 
-> **Access:** Company employee-only access.
+▶️ **[View Screen Recording](./Screen-Recording/UC-Near-Miss-Form-Demo.mp4)**
+
+> **Note:** The live Microsoft Form is restricted to authorized company employees. The recording is provided for portfolio demonstration purposes.
 
 ---
 
@@ -27,6 +29,7 @@ The form helps employees quickly report safety observations and maintain structu
 - Automatic email capture
 - Section and shift details
 - Safety observation details
+- Safety classification
 - Severity and probability assessment
 - Responsible person tracking
 - Observation status tracking
