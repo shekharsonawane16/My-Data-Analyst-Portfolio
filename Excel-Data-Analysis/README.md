@@ -197,6 +197,123 @@ The workbook includes:
 
 ---
 
+
+---
+
+## 4. Workforce Command Center (MP Dashboard)
+
+An Excel-based manpower intelligence dashboard designed to monitor workforce availability, attendance, manpower planning, and section-wise staffing across production and support functions.
+
+### Key Features
+
+- Workforce overview dashboard
+- Planned vs present manpower analysis
+- Absent manpower tracking
+- Attendance rate calculation
+- Approved leave monitoring
+- Production vs support manpower analysis
+- Overtime hours tracking
+- Plant-wise and section-wise analysis
+- Category-based filtering
+- Date-based dashboard analysis
+- Section-level manpower gap identification
+- KPI indicators with conditional status categories
+- Detailed workforce summary reports
+
+### Key Excel Skills Demonstrated
+
+- Advanced Excel formulas
+- SUMIFS and COUNTIFS
+- Dynamic filtering
+- Date-based analysis
+- KPI calculations
+- Conditional formatting
+- Data validation
+- Dashboard development
+- Workforce reporting
+- Operational data analysis
+
+---
+
+## 5. EGA Weight Analysis Dashboard
+
+An Excel-based quality-control dashboard designed to analyse average weight, net weight, weight differences, and EGA% across products and reporting periods.
+
+### Key Features
+
+- Interactive date-range filters
+- Year, month, and week filtering
+- Shift-wise and section-wise analysis
+- Variant/SKU filtering
+- Average weight and net weight analysis
+- Average signed difference calculation
+- Average absolute difference analysis
+- EGA% monitoring
+- Underweight and overweight record tracking
+- On-target record identification
+- Missing or invalid data monitoring
+- Highest positive and negative weight difference analysis
+- Weekly and monthly summaries
+- Product-wise deviation analysis
+- Dynamic quality insights
+
+### Key Excel Skills Demonstrated
+
+- Advanced Excel formulas
+- IFERROR and conditional calculations
+- Dynamic date filtering
+- SUMIFS, COUNTIFS and AVERAGEIFS
+- Data validation
+- Data cleaning and validation
+- KPI calculations
+- Conditional formatting
+- Dashboard development
+- Quality-control analysis
+- Weight variance analysis
+- Weekly and monthly reporting
+
+---
+
+## 6. Atta Production Command Center
+
+An Excel-based production analytics dashboard designed to consolidate atta grinding and production records from multiple source sheets and analyse raw material input, finished output, yield, wastage, and plant-level performance.
+
+### Key Features
+
+- Production command center dashboard
+- Consolidation of multiple production source sheets
+- Total raw material input analysis
+- Total finished output tracking
+- Weighted yield calculation
+- Total wastage monitoring
+- Sorting waste analysis
+- Bran and floor waste tracking
+- Process loss analysis
+- Monthly production summaries
+- Plant-group performance comparison
+- Product-wise output analysis
+- Date, plant, product, shift, and machine-level filtering
+- Production record-level analysis
+- Mass balance and variance monitoring
+- Yield and wastage KPI reporting
+
+### Key Excel Skills Demonstrated
+
+- Advanced Excel formulas
+- Data consolidation
+- Data transformation
+- SUMIFS and aggregation formulas
+- Dynamic filtering
+- Weighted KPI calculations
+- Yield and wastage calculations
+- Mass balance analysis
+- Variance analysis
+- Excel Tables
+- Dashboard development
+- Manufacturing data analysis
+- Production performance reporting
+
+
 # Tools & Excel Skills
 
 ### Data Analysis
